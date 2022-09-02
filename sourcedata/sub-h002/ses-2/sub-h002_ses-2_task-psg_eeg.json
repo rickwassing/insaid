@@ -1,0 +1,39 @@
+{
+	"TaskName": "psg",
+	"TaskDescription": "Overnight polysomnography.",
+	"InstitutionName": "Woolcock Institute",
+	"Manufacturer": "unknown",
+	"EEGReference": "common reference",
+	"SamplingFrequency": 512,
+	"PowerLineFrequency": 50,
+	"SoftwareFilters": {
+		"BandStop": {
+			"FilterType": "Windowed sinc FIR filter",
+			"Window": "Hamming",
+			"PassBand": [
+				49.6,
+				50.4
+			],
+			"TransitionBandwidth": 0.2,
+			"Order": 8448
+		},
+		"BandPass": {
+			"FilterType": "Windowed sinc FIR filter",
+			"Window": "Hamming",
+			"PassBand": [
+				0.1,
+				60
+			],
+			"TransitionBandwidth": 0.2,
+			"Order": 8448
+		}
+	},
+	"RecordingDuration": 29614,
+	"RecordingType": "continuous",
+	"EEGChannelCount": 12,
+	"EOGChannelCount": 2,
+	"ECGChannelCount": 1,
+	"EMGChannelCount": 3,
+	"MiscChannelCount": 0,
+	"TrialCount": 1
+}

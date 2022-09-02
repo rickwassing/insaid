@@ -1,0 +1,22 @@
+name	type	units	sampling_frequency	reference	status
+F3-M2	EEG	uV	512	M2	unknown
+F4-M1	EEG	uV	512	M1	unknown
+Fz-M2	EEG	uV	512	M2	unknown
+C3-M2	EEG	uV	512	M2	unknown
+C4-M1	EEG	uV	512	M1	unknown
+Cz-M2	EEG	uV	512	M2	unknown
+O1-M2	EEG	uV	512	M2	unknown
+Oz-M1	EEG	uV	512	M1	unknown
+Pz-M1	EEG	uV	512	M1	unknown
+O2-M1	EEG	uV	512	M1	unknown
+E1-M1	EOG	uV	512	M1	unknown
+E2-M2	EOG	uV	512	M2	unknown
+Chin 1-Chin 2	EMG	uV	512	n/a	unknown
+ECG	ECG	uV	512	n/a	unknown
+Snore	RESP	n/a	512	n/a	unknown
+Nasal Pressure	RESP	n/a	512	n/a	unknown
+Therm	RESP	n/a	512	n/a	unknown
+Abdo	RESP	n/a	1024	n/a	unknown
+Sum	MISC	n/a	512	n/a	unknown
+Oz	EEG	uV	512	common	unknown
+E2	EOG	uV	32	common	unknown

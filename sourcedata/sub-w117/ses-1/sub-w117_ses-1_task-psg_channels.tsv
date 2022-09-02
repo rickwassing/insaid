@@ -1,0 +1,22 @@
+name	type	units	sampling_frequency	reference	status
+F3	EEG	uV	512	common	unknown
+Fz	EEG	uV	512	common	unknown
+F4	EEG	uV	512	common	unknown
+C3	EEG	uV	512	common	unknown
+Cz	EEG	uV	512	common	unknown
+C4	EEG	uV	512	common	unknown
+M1	EEG	uV	512	common	unknown
+Pz	EEG	uV	512	common	unknown
+M2	EEG	uV	512	common	unknown
+O1	EEG	uV	512	common	unknown
+O2	EEG	uV	512	common	unknown
+E1	EOG	uV	512	common	unknown
+Oz	EEG	uV	512	common	unknown
+E2	EOG	uV	512	common	unknown
+Chin 1	EMG	uV	512	n/a	unknown
+Chin 2	EMG	uV	512	n/a	unknown
+Chin 3	EMG	uV	512	n/a	unknown
+Leg/L	EMG	uV	1024	n/a	unknown
+Leg/R	EMG	uV	512	n/a	unknown
+Respiratory Rate	RESP	n/a	512	n/a	unknown
+DHR	MISC	n/a	32	n/a	unknown

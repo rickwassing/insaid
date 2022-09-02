@@ -1,0 +1,12 @@
+archive/
+code/
+derivatives/
+documents/
+phenotype/
+rawdata/
+*.edf
+*.set
+*.fdt
+*.SET
+*.FDT
+EDFS.mat

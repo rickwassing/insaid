@@ -1,0 +1,17 @@
+name	type	units	sampling_frequency	reference	status	description
+F3	EEG	uV	512	M2	good	n/a
+F4	EEG	uV	512	M1	good	n/a
+C3	EEG	uV	512	M2	good	n/a
+C4	EEG	uV	512	M1	good	n/a
+O1	EEG	uV	512	M2	good	n/a
+O2	EEG	uV	512	M1	good	n/a
+Fz	EEG	uV	512	M1 M2 	good	n/a
+Cz	EEG	uV	512	M1 M2 	good	n/a
+Pz	EEG	uV	512	M1 M2 	good	n/a
+Oz	EEG	uV	512	M1 M2 	good	n/a
+E1	EOG	uV	512	n/a	good	n/a
+E2	EOG	uV	512	n/a	good	n/a
+Chin EMG	EMG	uV	512	n/a	good	n/a
+Left Leg	EMG	uV	512	n/a	good	n/a
+Right Leg	EMG	uV	512	n/a	good	n/a
+ECG	ECG	uV	512	n/a	good	n/a

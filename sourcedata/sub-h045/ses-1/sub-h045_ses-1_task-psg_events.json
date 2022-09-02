@@ -1,0 +1,15 @@
+{
+	"onset": "Event onset in seconds since start of recording",
+	"duration": "Event duration in seconds",
+	"trial_type": {
+		"Description": "Scored vigilance state",
+		"Levels": {
+			"WAKE": "Wakefulness",
+			"NREM1": "NREM stage 1 sleep",
+			"NREM2": "NREM stage 2 sleep",
+			"NREM3": "NREM stage 3 sleep",
+			"REM": "REM sleep",
+			"UNSCORED": "Epoch not scored"
+		}
+	}
+}

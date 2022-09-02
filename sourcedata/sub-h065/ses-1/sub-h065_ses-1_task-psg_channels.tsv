@@ -1,0 +1,20 @@
+name	type	units	sampling_frequency	reference	status
+F3	EEG	uV	256	common	unknown
+F4	EEG	uV	256	common	unknown
+C3	EEG	uV	256	common	unknown
+C4	EEG	uV	256	common	unknown
+O1	EEG	uV	256	common	unknown
+O2	EEG	uV	256	common	unknown
+M1	EEG	uV	256	common	unknown
+M2	EEG	uV	256	common	unknown
+E1	EOG	uV	256	common	unknown
+E2	EOG	uV	256	common	unknown
+Fz	EEG	uV	256	common	unknown
+Cz	EEG	uV	256	common	unknown
+Pz	EEG	uV	256	common	unknown
+Oz	EEG	uV	256	common	unknown
+Chin	EMG	uV	256	n/a	unknown
+ECG	ECG	uV	256	n/a	unknown
+Left Leg	EMG	uV	256	n/a	unknown
+Right Leg	EMG	uV	256	n/a	unknown
+NasalPressure	RESP	n/a	256	n/a	unknown

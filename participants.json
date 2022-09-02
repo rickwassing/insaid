@@ -1,0 +1,55 @@
+{
+  "participant_id": {
+    "Description": "Participant identifiers with the first letter encoding the centre and study",
+    "Levels": {
+      "b": "Biomarkers-I study at Woolcock Institute (controls only)",
+      "f": "Insomnia phenotyping study at Flinders Institute",
+      "h": "Insomnia-100 study at Woolcock Institute",
+      "v": "Vulnerability for Alertness Failure at Woolcock Institute (controls only)",
+      "w": "Insomnia phenotyping study at Woolcock Institute"
+    }
+  },
+  "group": {
+    "Description": "Group assignment",
+    "Levels": {
+      "insomnia": "insomnia",
+      "control": "control"
+    }
+  },
+  "sex": {
+    "Levels": {
+      "missing": "missing",
+      "female": "female",
+      "male": "male"
+    },
+    "Description": "Biological sex of the participant"
+  },
+  "dob": {
+    "Description": "Date of birth",
+    "Format": "yyyy-mm-dd"
+  },
+  "age": {
+    "Description": "Age of the participant",
+    "Units": "years"
+  },
+  "height": {
+    "Description": "Measured height of the participant",
+    "Units": "centimeters"
+  },
+  "weight": {
+    "Description": "Measured weight of the participant",
+    "Units": "kilograms"
+  },
+  "bmi": {
+    "Description": "BMI the participant",
+    "Units": "kg/m2"
+  },
+  "handedness": {
+    "Description": "Handedness of the participant as reported by the participant",
+    "Levels": {
+      "left": "left",
+      "right": "right",
+      "missing": "missing"
+    }
+  }
+}

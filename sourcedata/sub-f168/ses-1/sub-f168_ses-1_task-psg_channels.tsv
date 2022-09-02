@@ -1,0 +1,15 @@
+name	type	units	sampling_frequency	reference	status
+ECG	ECG	uV	256	n/a	unknown
+E1-M2	EOG	uV	256	M2	unknown
+E2-M2	EOG	uV	256	M2	unknown
+EMG_L	EMG	uV	256	n/a	unknown
+EMG_R	EMG	uV	256	n/a	unknown
+F4-M1	EEG	uV	256	M1	unknown
+C4-M1	EEG	uV	256	M1	unknown
+O2-M1	EEG	uV	256	M1	unknown
+F3-M2	EEG	uV	256	M2	unknown
+C3-M2	EEG	uV	256	M2	unknown
+O1-M2	EEG	uV	256	M2	unknown
+Limb_L	EMG	uV	256	n/a	unknown
+Limb_R	EMG	uV	256	n/a	unknown
+Pleth	PPG	n/a	32	n/a	unknown

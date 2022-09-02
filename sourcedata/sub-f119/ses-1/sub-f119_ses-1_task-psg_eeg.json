@@ -1,0 +1,18 @@
+{
+	"TaskName": "psg",
+	"TaskDescription": "Overnight polysomnography.",
+	"InstitutionName": "Flinders Institute",
+	"Manufacturer": "unknown",
+	"EEGReference": "common reference",
+	"SamplingFrequency": 200,
+	"PowerLineFrequency": 50,
+	"SoftwareFilters": "n/a",
+	"RecordingDuration": 33860,
+	"RecordingType": "continuous",
+	"EEGChannelCount": 6,
+	"EOGChannelCount": 2,
+	"ECGChannelCount": 1,
+	"EMGChannelCount": 4,
+	"MiscChannelCount": 1,
+	"TrialCount": 1
+}

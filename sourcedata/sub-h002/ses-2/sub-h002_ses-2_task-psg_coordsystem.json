@@ -1,0 +1,5 @@
+{
+	"EEGCoordinateSystem": "EEGLAB",
+	"EEGCoordinateUnits": "cm",
+	"EEGCoordinateSystemDescription": "X-axis towards anterior, Y-axis towards left, Z-axis towards superior"
+}
