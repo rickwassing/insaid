@@ -2,7 +2,6 @@ archive/
 code/
 derivatives/
 documents/
-phenotype/
 rawdata/
 *.edf
 *.set
